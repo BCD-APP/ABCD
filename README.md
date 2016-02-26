@@ -1,5 +1,8 @@
 # ABCD
 Group Project - _________
+
+
+
 Our (unnamed project) basically is a one-stop hub for gamers about games related to their interests. 
 Users sets their profile and interests to receive relevant information and communicate with others with similar interests.
 The most ambitious goal of the project is to be a one-stop for gamers in general and have little to no need to use anything but the app
