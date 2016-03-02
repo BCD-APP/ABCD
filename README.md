@@ -10,8 +10,7 @@ as everything but the game itself is supplied.
 
 Time spent:  hours spent in total
 =====WIREFRAME======
-https://www.fluidui.com/editor/live/preview/p_aGbrBPAIRvbwqcIQrlktvBeqFcgaU06l.1456894123471
-
+https://www.fluidui.com/editor/live/preview/p_aGbrBPAIRvbwqcIQrlktvBeqFcgaU06l.1456894350297
 
 User Stories:
 
