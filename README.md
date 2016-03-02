@@ -13,21 +13,21 @@ Time spent:  hours spent in total
 User Stories:
 
 Required User Stories:
- -[ ] Users can login to access the rest of the app
- -[ ] Users can freely navigate around the app and access Profiles, other user Profiles and logout
- -[ ] Main Viewcontroller shows news feed based off of Users preferences. 
+ - [ ] Users can login to access the rest of the app
+ - [ ] Users can freely navigate around the app and access Profiles, other user Profiles and logout
+ - [ ] Main Viewcontroller shows news feed based off of Users preferences. 
   - [ ] Show relevant news feed
   - [ ] Can navigate to user profile
   - [ ] Can access other users profiles
   - [ ] Logout button proper logs users off and properly disconnects linked information (maybe not so important for demo)
   - [ ] Users can make posts, with pictures, videos , streams etc.
   - [ ] Chat client for different groups (Maybe should be its own view controller, or a scroll view chat client?)
- -[ ] Settings/Profile View to set users preferences and link various other sources
+ - [ ] Settings/Profile View to set users preferences and link various other sources
   - [ ] Connect with Twitch account
   - [ ] Connect with Steam account (Optionals?)
   - [ ] Connect with others (Optionals)
   - [ ] Change various settings and preferences
- -[ ] Users can view other peoples profile and see:
+ - [ ] Users can view other peoples profile and see:
   - [ ] List of games the person expresses interests in (Collection View)
   - [ ] User information
 
