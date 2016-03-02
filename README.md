@@ -9,6 +9,9 @@ The most ambitious goal of the project is to be a one-stop for gamers in general
 as everything but the game itself is supplied.
 
 Time spent:  hours spent in total
+=====WIREFRAME======
+https://www.fluidui.com/editor/live/preview/p_aGbrBPAIRvbwqcIQrlktvBeqFcgaU06l.1456894123471
+
 
 User Stories:
 
